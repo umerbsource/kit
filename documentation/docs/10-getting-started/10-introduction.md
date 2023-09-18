@@ -1,5 +1,5 @@
 ---
-title: Introduction
+kilt
 ---
 
 ## Before we begin
